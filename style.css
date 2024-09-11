@@ -1,0 +1,27 @@
+
+#trusted h2{
+    margin-bottom: 20px;
+    font-size: 24px;
+    color: #333;
+}
+
+.company-logos {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    gap: 20px;
+}
+
+.company-logos img:hover {
+    transform: scale(1.1);
+} 
+.company-logos {
+          display: flex;
+          justify-content: space-evenly;
+
+}
+.company-logos img{
+    width: 120px;
+    height: 120px;
+
+}
